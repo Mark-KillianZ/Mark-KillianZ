@@ -1,9 +1,8 @@
-# Quantitative Finance Researcher | IT Quant – Equity Derivatives at Natixis | AI & Blockchain Enthusiast
-Student at ESILV, Top 4% | Head of DeFi at KRYPTOSPHERE®
+# Quantitative Researcher | AI & Blockchain Enthusiast
+Quant Research @ Neural Oasis | Co-Chairman at KRYPTOSPHERE®
 
 Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - I’m @mkzpr04 aka Mark-Killian Zinenberg
-- Head of DeFi at KRYPTOSPHERE® and student-researcher at Esilv (Top 4%)
 - 🌱 I’m currently learning advanced quantitative models, machine learning for finance, and exploring blockchain technologies.
 - 💞️ I’m looking to collaborate on projects involving quantitative finance, algorithmic trading, AI or blockchain-based finance solutions.
 
